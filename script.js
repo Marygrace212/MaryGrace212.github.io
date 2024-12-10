@@ -1,0 +1,8 @@
+alert("Hi Lovie")
+alert("I just wanna say...")
+alert("I love you so so much ❤️ ❤️ ❤️ ❤️ ")
+alert("and also You areeeee so pretttyyyy❤️ ❤️ ❤️ ❤️ ")
+alert("if I make you mad...")
+alert("Please tell me Lovie...")
+alert("and sorry about ganiha ")
+alert("I know na pul-an naka sa sorry nako:<")
